@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_OA2P" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROFILE>
+    <HEADER>
+     <PROFILE>AI_TAX_CODE</PROFILE>
+     <TYPE>HANA_CLOUD_PLATFORM</TYPE>
+     <NO_AUTH_CHECK>X</NO_AUTH_CHECK>
+    </HEADER>
+   </PROFILE>
+  </asx:values>
+ </asx:abap>
+</abapGit>

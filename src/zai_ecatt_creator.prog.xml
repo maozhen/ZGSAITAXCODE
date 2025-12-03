@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZAI_ECATT_CREATOR</NAME>
+    <SUBC>1</SUBC>
+    <RSTAT>T</RSTAT>
+    <RLOAD>E</RLOAD>
+    <FIXPT>X</FIXPT>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <TPOOL>
+    <item>
+     <ID>R</ID>
+     <ENTRY>eCATT Creator by AI</ENTRY>
+     <LENGTH>19</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_ECAT</KEY>
+     <ENTRY>BP eCATT</ENTRY>
+     <LENGTH>16</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_TTNUM</KEY>
+     <ENTRY>Number of create</ENTRY>
+     <LENGTH>33</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_TTTP1</KEY>
+     <ENTRY>Target Country</ENTRY>
+     <LENGTH>22</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_CCBB1</KEY>
+     <ENTRY>Source BBID (e.g. JA2)</ENTRY>
+     <LENGTH>30</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_CCSI1</KEY>
+     <ENTRY>Bank define reference SI (J74)</ENTRY>
+     <LENGTH>38</LENGTH>
+    </item>
+   </TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
